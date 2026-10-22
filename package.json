@@ -1,0 +1,11 @@
+{
+  "name": "node-hello-fxl",
+  "version": "1.0.0",
+  "description": "Hello World site for fxl",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fxl",
+  "license": "MIT"
+}
